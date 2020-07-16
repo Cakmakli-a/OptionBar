@@ -5,3 +5,5 @@ This `OptionBar` (you can call it what ever you want!) is inspired by Apples `UI
 So this is NOT 'my' creative work! Use it on your own risks & only for purpose of practice.
 
 MIT licence
+
+![Alt text](image/MenuBar.gif?raw=true "MenuBar")
